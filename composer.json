@@ -1,0 +1,9 @@
+{
+    "name": "serj/yii",
+	"description": "My project yii3",
+    "minimum-stability": "dev",
+    "require": {
+        "php": ">=5.4.0"
+    },
+	
+}
